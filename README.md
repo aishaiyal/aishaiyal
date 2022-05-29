@@ -3,7 +3,7 @@
 <
 
 - 🔭 I’m currently working on ...Data Analysis/Science
-- 🌱 I’m currently learning ...Pyhthon, Sql, Excel, Tableau and Power BI
+- 🌱 I’m proficient in ...Pyhthon, Sql, Excel, Tableau and Power BI
 - 👯 I’m looking to collaborate on ...Data Anlysis/Data Science Projects
 - 🤔 I’m looking for help with ...Resources to improve my skill,
 - 💬 Ask me about ...Data Visualisation, Webscrapping, EDA and Statistics
